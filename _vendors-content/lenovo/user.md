@@ -1,8 +1,6 @@
----
+youssou--
 manufacturer: 
-    - lenovo
-
----
+    - lenovo-youssou--
 
 
 ### Lenovo P2
